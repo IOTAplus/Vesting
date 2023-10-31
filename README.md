@@ -1,5 +1,4 @@
-"Gradual Token Distribution: A Detailed Overview of the Vesting Contract"
-
+# Vesting Contract: Gradual Token Distribution System
 
 The smart contract is a "Vesting Contract" meant to handle the gradual release of tokens to beneficiaries over a set period. Here are its main features:
 
